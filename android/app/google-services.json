@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354002493497",
+    "project_id": "home-cleaning-services-f4cb5",
+    "storage_bucket": "home-cleaning-services-f4cb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354002493497:android:f824119f118f0f6519ade8",
+        "android_client_info": {
+          "package_name": "com.example.home_cleaning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwcedVMsVjzxQxKmE9sQga7qPu2J4q7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

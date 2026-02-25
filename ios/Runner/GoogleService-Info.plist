@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>354002493497-1e1s3431rppn79gvrkr8cnvhf6ob6ga0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.354002493497-1e1s3431rppn79gvrkr8cnvhf6ob6ga0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>354002493497-jrpg7e84e935fpaj82050lf36uesbgs8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHGUw6K3AMEzZ9Jn6h8t1hTITfCeMZyR0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>354002493497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.homeCleaningApp</string>
+	<key>PROJECT_ID</key>
+	<string>home-cleaning-services-f4cb5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>home-cleaning-services-f4cb5.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:354002493497:ios:83c35b3ac18e3eb119ade8</string>
+</dict>
+</plist>
